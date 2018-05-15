@@ -72,6 +72,13 @@ Revised and enlarged under the supervision of Noah Porter
    seq -f 'mv p%04g-??.??? ../2.wxyz/' 1621 1681 | bash
    ```
 
+6. Parts of text in a few pages were distorted from damages. A copy of such pages,
+   taken from another source ([1][iv1], [2][iv2]), can be found in `z.fixes`.
+
+[iv1]: https://archive.org/details/webstersinternat01webs
+[iv2]: https://archive.org/details/webstersinternat02websuoft
+
 ## License
 
-This work is believed to be in the public domain. For more details, visit the archive.org link above.
+This work is believed to be in the public domain.
+For more details, visit the archive.org link above.
